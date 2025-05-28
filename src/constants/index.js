@@ -12,27 +12,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "./assets/projects/accessories.jpg",
     tags: [
       {
         id: 1,
         name: "C#",
-        path: "/assets/logos/csharp.svg",
+        path: "./assets/logos/csharp.svg",
       },
       {
         id: 2,
         name: ".Net",
-        path: "/assets/logos/dotnet.svg",
+        path: "./assets/logos/dotnet.svg",
       },
       {
         id: 3,
         name: "Ef Core",
-        path: "/assets/logos/efcore.png",
+        path: "./assets/logos/efcore.png",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "./assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -49,27 +49,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "./assets/projects/auth-system.jpg",
     tags: [
       {
         id: 1,
         name: "Auth0",
-        path: "/assets/logos/auth0.svg",
+        path: "./assets/logos/auth0.svg",
       },
       {
         id: 2,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: "./assets/logos/react.svg",
       },
       {
         id: 3,
         name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        path: "./assets/logos/sqlite.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "./assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -86,27 +86,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "./assets/projects/blazor-app.jpg",
     tags: [
       {
         id: 1,
         name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        path: "./assets/logos/blazor.svg",
       },
       {
         id: 2,
         name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        path: "./assets/logos/dotnetcore.svg",
       },
       {
         id: 3,
         name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        path: "./assets/logos/sqlite.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "./assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -123,27 +123,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "./assets/projects/game-engine.jpg",
     tags: [
       {
         id: 1,
         name: "C++",
-        path: "/assets/logos/cplusplus.svg",
+        path: "./assets/logos/cplusplus.svg",
       },
       {
         id: 2,
         name: "C#",
-        path: "/assets/logos/csharp.svg",
+        path: "./assets/logos/csharp.svg",
       },
       {
         id: 3,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: "./assets/logos/git.svg",
       },
       {
         id: 4,
         name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
+        path: "./assets/logos/microsoft.svg",
       },
     ],
   },
@@ -160,27 +160,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "./assets/projects/wordpress-theme.jpg",
     tags: [
       {
         id: 1,
         name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        path: "./assets/logos/wordpress.svg",
       },
       {
         id: 2,
         name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        path: "./assets/logos/html5.svg",
       },
       {
         id: 3,
         name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        path: "./assets/logos/css3.svg",
       },
       {
         id: 4,
         name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
+        path: "./assets/logos/vitejs.svg",
       },
     ],
   },
@@ -197,27 +197,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/elearning.jpg",
+    image: "./assets/projects/elearning.jpg",
     tags: [
       {
         id: 1,
         name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        path: "./assets/logos/blazor.svg",
       },
       {
         id: 2,
         name: "Azure",
-        path: "/assets/logos/azure.svg",
+        path: "./assets/logos/azure.svg",
       },
       {
         id: 3,
         name: "Stripe",
-        path: "/assets/logos/stripe.svg",
+        path: "./assets/logos/stripe.svg",
       },
       {
         id: 4,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "./assets/logos/tailwindcss.svg",
       },
     ],
   },
@@ -227,17 +227,17 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "",
-    icon: "/assets/socials/whatsApp.svg",
+    icon: "./assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "./assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com",
-    icon: "/assets/socials/instagram.svg",
+    icon: "./assets/socials/instagram.svg",
   },
 ];
 
@@ -326,3 +326,4 @@ export const reviews = [
     img: "https://robohash.org/eve",
   },
 ];
+
